@@ -1,0 +1,11 @@
+d:\documents\visual studio 2010\Projects\App\SalesTaxes.Items.Tests\bin\Debug\SalesTaxes.Items.Tests.dll
+d:\documents\visual studio 2010\Projects\App\SalesTaxes.Items.Tests\bin\Debug\SalesTaxes.Items.Tests.pdb
+d:\documents\visual studio 2010\Projects\App\SalesTaxes.Items.Tests\bin\Debug\nunit.framework.dll
+d:\documents\visual studio 2010\Projects\App\SalesTaxes.Items.Tests\bin\Debug\SalesTaxes.Items.dll
+d:\documents\visual studio 2010\Projects\App\SalesTaxes.Items.Tests\bin\Debug\SalesTaxes.Items.pdb
+d:\documents\visual studio 2010\Projects\App\SalesTaxes.Items.Tests\bin\Debug\nunit.framework.xml
+d:\documents\visual studio 2010\Projects\App\SalesTaxes.Items.Tests\obj\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\App\SalesTaxes.Items.Tests\obj\Debug\SalesTaxes.Items.Tests.dll
+d:\documents\visual studio 2010\Projects\App\SalesTaxes.Items.Tests\obj\Debug\SalesTaxes.Items.Tests.pdb
+D:\Documents\Visual Studio 2010\Projects\App\SalesTaxes.Items.Tests\bin\Debug\SalesTaxes.Interface.dll
+D:\Documents\Visual Studio 2010\Projects\App\SalesTaxes.Items.Tests\bin\Debug\SalesTaxes.Interface.pdb

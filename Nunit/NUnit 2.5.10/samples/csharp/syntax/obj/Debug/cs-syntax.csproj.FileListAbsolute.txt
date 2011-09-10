@@ -1,0 +1,7 @@
+C:\Program Files (x86)\NUnit 2.5.10\samples\csharp\syntax\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files (x86)\NUnit 2.5.10\samples\csharp\syntax\bin\Debug\cs-syntax.dll
+C:\Program Files (x86)\NUnit 2.5.10\samples\csharp\syntax\bin\Debug\cs-syntax.pdb
+C:\Program Files (x86)\NUnit 2.5.10\samples\csharp\syntax\bin\Debug\nunit.framework.dll
+C:\Program Files (x86)\NUnit 2.5.10\samples\csharp\syntax\bin\Debug\nunit.framework.xml
+C:\Program Files (x86)\NUnit 2.5.10\samples\csharp\syntax\obj\Debug\cs-syntax.dll
+C:\Program Files (x86)\NUnit 2.5.10\samples\csharp\syntax\obj\Debug\cs-syntax.pdb

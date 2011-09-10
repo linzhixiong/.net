@@ -1,0 +1,7 @@
+C:\Program Files (x86)\NUnit 2.5.10\samples\csharp\money\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files (x86)\NUnit 2.5.10\samples\csharp\money\bin\Debug\cs-money.dll
+C:\Program Files (x86)\NUnit 2.5.10\samples\csharp\money\bin\Debug\cs-money.pdb
+C:\Program Files (x86)\NUnit 2.5.10\samples\csharp\money\bin\Debug\nunit.framework.dll
+C:\Program Files (x86)\NUnit 2.5.10\samples\csharp\money\bin\Debug\nunit.framework.xml
+C:\Program Files (x86)\NUnit 2.5.10\samples\csharp\money\obj\Debug\cs-money.dll
+C:\Program Files (x86)\NUnit 2.5.10\samples\csharp\money\obj\Debug\cs-money.pdb

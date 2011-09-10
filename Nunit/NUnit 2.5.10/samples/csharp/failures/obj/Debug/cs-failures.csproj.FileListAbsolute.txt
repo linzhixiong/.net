@@ -1,0 +1,7 @@
+C:\Program Files (x86)\NUnit 2.5.10\samples\csharp\failures\obj\Debug\ResolveAssemblyReference.cache
+C:\Program Files (x86)\NUnit 2.5.10\samples\csharp\failures\bin\Debug\cs-failures.dll
+C:\Program Files (x86)\NUnit 2.5.10\samples\csharp\failures\bin\Debug\cs-failures.pdb
+C:\Program Files (x86)\NUnit 2.5.10\samples\csharp\failures\bin\Debug\nunit.framework.dll
+C:\Program Files (x86)\NUnit 2.5.10\samples\csharp\failures\bin\Debug\nunit.framework.xml
+C:\Program Files (x86)\NUnit 2.5.10\samples\csharp\failures\obj\Debug\cs-failures.dll
+C:\Program Files (x86)\NUnit 2.5.10\samples\csharp\failures\obj\Debug\cs-failures.pdb

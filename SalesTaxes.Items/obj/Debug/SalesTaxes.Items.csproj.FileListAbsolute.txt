@@ -1,0 +1,7 @@
+d:\documents\visual studio 2010\Projects\App\SalesTaxes.Items\bin\Debug\SalesTaxes.Items.dll
+d:\documents\visual studio 2010\Projects\App\SalesTaxes.Items\bin\Debug\SalesTaxes.Items.pdb
+d:\documents\visual studio 2010\Projects\App\SalesTaxes.Items\obj\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\App\SalesTaxes.Items\obj\Debug\SalesTaxes.Items.dll
+d:\documents\visual studio 2010\Projects\App\SalesTaxes.Items\obj\Debug\SalesTaxes.Items.pdb
+D:\Documents\Visual Studio 2010\Projects\App\SalesTaxes.Items\bin\Debug\SalesTaxes.Interface.dll
+D:\Documents\Visual Studio 2010\Projects\App\SalesTaxes.Items\bin\Debug\SalesTaxes.Interface.pdb
